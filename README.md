@@ -1,5 +1,5 @@
 # Introduction_to_Machine_Learning-Project
-Project description:\ 
+Project description:\
 Mobile carrier Megaline has found out that many of their subscribers use legacy plans. They want to develop a model that would analyze subscribers' behavior and recommend one of Megaline's newer plans: Smart or Ultra.\ 
 You have access to behavior data about subscribers who have already switched to the new plans (from the project for the Statistical Data Analysis course). \
 For this classification task, need to develop a model that will pick the right plan. Since you’ve already performed the data preprocessing step, you can move straight to creating the model.\
